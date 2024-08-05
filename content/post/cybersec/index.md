@@ -7,5 +7,12 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
+tags: ["goku", "supersaiyan", "anime"]
 ---
+
+Goku is a Dragonball Z character in a Japanese series.
+You can find more information about this character [here](https://dragonball.fandom.com/wiki/Goku). 
+
+This is a X(Twitter) post.
+{{< twitter user="ManUtd" id="1820082508899172786" >}}

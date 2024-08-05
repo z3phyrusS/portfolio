@@ -1,6 +1,6 @@
 ---
 title: "Goku and stuff"
-description: 
+description: "Son Goku is a fictional character and the main protagonist of the Dragon Ball manga series created by Akira Toriyama."
 date: 2024-08-05T02:23:18Z
 image: goku.jpeg
 math: 

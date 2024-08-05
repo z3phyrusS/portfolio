@@ -1,8 +1,8 @@
 ---
-title: "Cybersec"
+title: "Goku and stuff"
 description: 
 date: 2024-08-05T02:23:18Z
-image: 
+image: goku.jpeg
 math: 
 license: 
 hidden: false
